@@ -1,1 +1,1 @@
-# 20pipsdip-privacy
+# pipstrategy-privacy
